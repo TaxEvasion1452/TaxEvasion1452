@@ -10,7 +10,7 @@ const commands = [{
     if (!interaction.isCommand()) return;
   
     if (interaction.commandName === 'sus') {
-      await interaction.reply("Proof this isn't sus: ");
+      await interaction.reply("Proof this isn't sus: https://github.com/TaxEvasion1452/TaxEvasion1452/blob/Funni-Cactus-Discord-Bot/cactus.js");
     }
   });
 
